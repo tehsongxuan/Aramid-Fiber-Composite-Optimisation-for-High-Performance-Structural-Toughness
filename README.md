@@ -1,0 +1,2 @@
+# Aramid-Fiber-Composite-Optimisation-for-High-Performance-Structural-Toughness
+Optimised Aramid fiber reinforced epoxy composites, achieving a 54% increase in fracture toughness through fibre loading enhancement. Leveraged SEM and optical analysis to link microstructural behaviour with performance outcomes, generating data-driven insights supporting structured materials innovation and performance optimization.
